@@ -3,6 +3,9 @@
 /* Font for headings */
 /* Text colors */
 /* IMPORT CSS FILES */
+@import url(http://fonts.googleapis.com/css?family=Galdeano);
+@import url(http://fonts.googleapis.com/css?family=Electrolize);
+@import url(http://fonts.googleapis.com/css?family=Cuprum);
 article,
 aside,
 details,
@@ -2197,7 +2200,7 @@ a {
   text-rendering: optimizeLegibility;
   border-radius: 2px;
   vertical-align: middle;
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:'Galdeano','Hiragino Sans GB','Microsoft YaHei',Trebuchet,'Trebuchet MS',Tahoma,'Lucida Grande','Lucida Sans Unicode',Verdana,sans-serif;
   border-radius: 2px;
   background: #4dab7d;
   border: 2px solid #4dab7d;
